@@ -1,4 +1,4 @@
-# Neko Example Plugin Format
+# ZeroTwo Example Plugin Format
 
 ## Advanced: Decorators
 ```python3
